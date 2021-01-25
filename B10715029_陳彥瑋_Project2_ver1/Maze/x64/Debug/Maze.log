@@ -1,0 +1,29 @@
+﻿  Moc'ing MazeWidget.h...
+  Uic'ing maze.ui...
+  Moc'ing OpenGLWidget.h...
+  Rcc'ing maze.qrc...
+RCC : warning : No resources in 'D:\Main\NTUST\CG_project2\Maze\Maze\maze.qrc'.
+  
+  Cell.cpp
+  Edge.cpp
+  moc_MazeWidget.cpp
+  moc_OpenGLWidget.cpp
+  LineSeg.cpp
+  main.cpp
+  Maze.cpp
+d:\main\ntust\cg_project2\maze\maze\maze.cpp(118): warning C4312: '類型轉換': 將 'int' 轉換為較大的 'Cell *'
+d:\main\ntust\cg_project2\maze\maze\maze.cpp(119): warning C4312: '類型轉換': 將 'int' 轉換為較大的 'Cell *'
+d:\main\ntust\cg_project2\maze\maze\maze.cpp(141): warning C4312: '類型轉換': 將 'int' 轉換為較大的 'Cell *'
+d:\main\ntust\cg_project2\maze\maze\maze.cpp(143): warning C4312: '類型轉換': 將 'int' 轉換為較大的 'Cell *'
+d:\main\ntust\cg_project2\maze\maze\maze.cpp(154): warning C4312: '類型轉換': 將 'int' 轉換為較大的 'Cell *'
+d:\main\ntust\cg_project2\maze\maze\maze.cpp(156): warning C4312: '類型轉換': 將 'int' 轉換為較大的 'Cell *'
+d:\main\ntust\cg_project2\maze\maze\maze.cpp(166): warning C4312: '類型轉換': 將 'int' 轉換為較大的 'Cell *'
+d:\main\ntust\cg_project2\maze\maze\maze.cpp(168): warning C4312: '類型轉換': 將 'int' 轉換為較大的 'Cell *'
+d:\main\ntust\cg_project2\maze\maze\maze.cpp(178): warning C4312: '類型轉換': 將 'int' 轉換為較大的 'Cell *'
+d:\main\ntust\cg_project2\maze\maze\maze.cpp(180): warning C4312: '類型轉換': 將 'int' 轉換為較大的 'Cell *'
+  MazeWidget.cpp
+  OpenGLWidget.cpp
+  Vertex.cpp
+  正在產生程式碼...
+  qrc_maze.cpp
+  Maze.vcxproj -> D:\Main\NTUST\CG_project2\Maze\x64\Debug\Maze.exe
